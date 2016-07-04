@@ -10,20 +10,20 @@ html,body,div{
 	position: relative;
 	top: 100px;
 	margin: 0 auto;
-	border: 1px black solid;
+	border: 2px black solid;
+	border-radius: 8px;
 }
 .little_box{
 	float: left;
 	width: 398px;
 	height: 398px;
-	position: relative;
+	
 }
 #left_box{
-	border:1px solid red;
+	height: 400px;
 	background: black;
 }
 #right_box{
-	border: 1px solid green;
 }
 #globle{
 	position: absolute;
